@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersonnect",
+        "uuid": 4821129,
+        "checksum": "0gvoem"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
